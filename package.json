@@ -1,6 +1,6 @@
 {
   "name": "sassessentials",
-  "version": "1.0.2",
+  "version": "1.45.2",
   "description": "A website for my Sass Essential Training course on Lynda.com",
   "repository": {
     "type": "git",
@@ -10,10 +10,10 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-jshint": "^2.1.0",
-    "gulp-sass": "^4.0.2",
+    "dart-sass":"1.25.0"
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.13.1"
-  },
+    
+
   "dependencies": {
     "browser-sync": "^2.26.5"
   }
